@@ -1,0 +1,25 @@
+{
+  "name": "tron-animation",
+  "version": "1.0.0",
+  "description": "A full-screen Three.js Tron-like animation",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "three.js",
+    "tron",
+    "animation"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "postprocessing": "^6.36.7",
+    "three": "^0.173.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
